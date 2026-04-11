@@ -1,4 +1,4 @@
-# 🧠 Vocabulary Builder Game (Python)
+## 🧠 Vocabulary Builder Game (Python)
 
 A simple command-line vocabulary game built in Python to help improve English vocabulary through multiple-choice questions.
 
@@ -12,3 +12,13 @@ A simple command-line vocabulary game built in Python to help improve English vo
 ## 🚀 How to Run
 1. Make sure Python is installed
 2. Run the program:
+
+## 📌 Future Improvements
+- Add timer per question
+- Add more words (expand database)
+- Save high scores
+- Add streak system
+- GUI version (Tkinter / Web app)
+
+## 👨‍💻 Author
+Self-taught developer on a journey 🚀
